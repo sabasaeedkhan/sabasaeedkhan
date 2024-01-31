@@ -1,7 +1,8 @@
 👋 Hello there! I'm  SABA SAEED KHAN, a passionate AI Chatbot Developer and Cardiology Technologist.
 
 👨‍💻 About Me
-I thrive on the intersection of technology and healthcare, bringing together my expertise in AI chatbot development and my background as a cardiology technologist. 
+I thrive on the intersection of technology and healthcare, bringing together my expertise in 
+AI chatbot development and my background as a cardiology technologist. 
 With a keen interest in enhancing healthcare through innovative solutions, I code with purpose and heart.
 
 💬 AI Chatbot Development
