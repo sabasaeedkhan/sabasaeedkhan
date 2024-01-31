@@ -16,3 +16,4 @@ I believe in the synergy between technology and healthcare, leveraging my skills
 📫 Let's Connect
 I'm always open to collaborations and discussions. If you share a passion for AI, healthcare, or the exciting space where they converge,
 feel free to reach out! Let's code, innovate, and make a positive impact together.
+con
